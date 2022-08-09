@@ -1,0 +1,19 @@
+{
+  "name": "@olutola_paul/wordchecker",
+  "version": "1.0.2",
+  "description": "A package to run basic test on strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OloruntobiOlutola/wordChecker.git"
+  },
+  "author": "Olutola Paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OloruntobiOlutola/wordChecker/issues"
+  },
+  "homepage": "https://github.com/OloruntobiOlutola/wordChecker#readme"
+}
