@@ -1,6 +1,6 @@
 {
   "name": "@olutola_paul/wordchecker",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package to run basic test on strings",
   "main": "index.js",
   "scripts": {
