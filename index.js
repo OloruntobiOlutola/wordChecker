@@ -23,3 +23,5 @@ exports.anagrams = (str, arr) => {
   }
   return result;
 };
+
+exports.alphanumeric = s => /^[a-z\d]+$/i.test(s)
